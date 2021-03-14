@@ -2,16 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
-    entries:
-      - title: Portfolio
-        url: https://virendrasinghrp.github.io/
-      - title: email
-        url: mailto:virendrasinghrp@gmail.com
-      - title: github
-        url: https://github.com/virendrasinghrp
-      - title: linkedin
-        url: https://www.linkedin.com/in/virendra-singh-rajpurohit/
+#  - title: me
+#    entries:
+#      - title: Portfolio
+#        url: https://virendrasinghrp.github.io/
+#      - title: email
+#        url: mailto:virendrasinghrp@gmail.com
+#      - title: github
+#        url: https://github.com/virendrasinghrp
+#      - title: linkedin
+#        url: https://www.linkedin.com/in/virendra-singh-rajpurohit/
 #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
